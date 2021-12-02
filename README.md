@@ -1,5 +1,4 @@
 # SimpleNews Project
-
 > Github Repository 地址：https://github.com/Bill-Haku/SimpleNews
 
 ## 待办事项
@@ -21,3 +20,6 @@
 6. 编码完成后，push到远端分支，并创建merge request请求merge到master分支
 7. 等待administrator approve
 
+## 注意事项
+
+- master分支已经设定被保护不允许直接push到master分支
