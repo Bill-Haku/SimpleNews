@@ -1,7 +1,4 @@
 # SimpleNews Project
-<<<<<<< Updated upstream
-=======
-
 > Github Repository 地址：https://github.com/Bill-Haku/SimpleNews
 
 ## 待办事项
@@ -26,4 +23,3 @@
 ## 注意事项
 
 - master分支已经设定被保护不允许直接push到master分支
->>>>>>> Stashed changes
