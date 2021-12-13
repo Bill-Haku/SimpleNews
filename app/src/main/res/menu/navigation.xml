@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:icon="@mipmap/home"
+    android:title="home"
+    android:iconTint="#FF316BCA"/>
+    <item android:icon="@mipmap/setting"
+        android:title="setting"
+        />
+</menu>
