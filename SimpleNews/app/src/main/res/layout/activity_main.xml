@@ -56,4 +56,69 @@
             android:layout_height="wrap_content" />//呈现内容
     </ScrollView>
 
+
+    //新增
+
+    <TextView
+        android:id="@+id/simplenews"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#D88BD4F3"
+        android:paddingLeft="10dp"
+        android:text="Simple News"
+        android:textColor="#4B6A79"
+        android:textSize="15pt"></TextView>
+
+    <Button
+        android:id="@+id/settings"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/settings"
+
+        app:backgroundTint="@color/white"
+        app:backgroundTintMode="multiply" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/NewsTittle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerInParent="true"
+                android:text="标题"
+                android:textSize="35sp" />
+
+            <TextView
+                android:id="@+id/NewsContent1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="正文1"
+                android:textSize="20sp"></TextView>
+
+            <ImageView
+                android:id="@+id/ContentImage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/baidu"></ImageView>
+
+            <TextView
+                android:id="@+id/NewsContent2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="正文2"
+                android:textSize="20sp"></TextView>
+
+
+        </LinearLayout>
+
+        >
+    </ScrollView>
+
 </androidx.constraintlayout.widget.ConstraintLayout>
