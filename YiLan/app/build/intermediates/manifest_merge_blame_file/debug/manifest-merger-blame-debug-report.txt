@@ -1,0 +1,90 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.administrator.yilan000"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:5:5-67
+11-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+12-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:6:5-81
+12-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+13-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:7:5-84
+13-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:7:22-81
+14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+14-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:8:5-79
+14-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:9:5-76
+15-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:9:22-73
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:6:5-81
+16-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:6:22-78
+17    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+17-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:11:5-79
+17-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:11:22-76
+18    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+18-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:12:5-75
+18-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:12:22-73
+19
+20    <application
+20-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:14:5-38:19
+21        android:name="com.example.administrator.yilan000.MyApplication"
+21-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:18:9-38
+22        android:allowBackup="true"
+22-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:15:9-35
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:16:9-43
+25        android:label="@string/app_name"
+25-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:17:9-41
+26        android:supportsRtl="true"
+26-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:19:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme" >
+28-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:20:9-40
+29        <activity
+29-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:21:9-31:20
+30            android:name="com.example.administrator.yilan000.MainActivity"
+30-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:22:13-41
+31            android:exported="true"
+31-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:23:13-36
+32            android:label="@string/app_name"
+32-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:24:13-45
+33            android:theme="@style/AppTheme.NoActionBar" >
+33-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:25:13-56
+34            <intent-filter>
+34-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:26:13-30:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:27:17-69
+35-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:27:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:29:17-77
+37-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:29:27-74
+38            </intent-filter>
+39        </activity>
+40        <activity
+40-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:32:9-35:20
+41            android:name="com.example.administrator.yilan000.ui.news.NewsDetailsActivity"
+41-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:32:19-62
+42            android:exported="true" >
+42-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:33:13-36
+43        </activity>
+44        <activity
+44-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:36:9-37:38
+45            android:name="com.example.administrator.yilan000.ui.pictures.PictureDescribeActivity"
+45-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:36:19-70
+46            android:exported="true" />
+46-->/Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:37:13-36
+47    </application>
+48
+49</manifest>

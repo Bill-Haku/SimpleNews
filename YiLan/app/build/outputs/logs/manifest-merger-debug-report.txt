@@ -1,0 +1,164 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.jakewharton:butterknife:8.7.0] /Users/hakubill/.gradle/caches/transforms-3/e432943cf0211bc840b16b6ba68a44e0/transformed/butterknife-8.7.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.jude:easyrecyclerview:4.4.0] /Users/hakubill/.gradle/caches/transforms-3/01bcbb02fa0ee072f6bced41da209453/transformed/easyrecyclerview-4.4.0/AndroidManifest.xml:2:1-12:12
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/hakubill/.gradle/caches/transforms-3/06cac4e8490d79124d965bf588aa1e99/transformed/rxandroid-1.2.1/AndroidManifest.xml:15:1-21:12
+MERGED from [org.sufficientlysecure:html-textview:1.3] /Users/hakubill/.gradle/caches/transforms-3/0ea5c6e13eaf115be7bc29b6fdde3181/transformed/html-textview-1.3/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/4df99f1f5a291bc243c28a8286f2b960/transformed/design-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/1e6fdaef85c17cabe7bedb079b0408a1/transformed/appcompat-v7-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/4807345aafcb3aaf529b6a97cf04e8e5/transformed/recyclerview-v7-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/3bb55d74a0d4c87d9e4aa65b4efa0a95/transformed/transition-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/f312d0e4f376a27f2e6df7022cff02e6/transformed/support-v4-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/14e3d6e0b03c56eb098d067e6a9e1786/transformed/support-media-compat-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/90ef68e1c54b85d9b5b52ec522dbf109/transformed/support-fragment-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/b0f184b9dd061222499aa57d61ca6967/transformed/support-core-utils-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/c1727e3c7fa1d91294f2da3059f0a35c/transformed/animated-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/b1ae4a0ff4a0cf9fdba8290716aa8e18/transformed/support-core-ui-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/9497965443e296fd92aefb1c6defe9de/transformed/support-vector-drawable-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/2b3b769663e9961246356bc74c47d9a0/transformed/support-compat-27.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/hakubill/.gradle/caches/transforms-3/4e4352b0773d86a3e93b35ff54983dc6/transformed/runtime-1.0.3/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:7:5-84
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:7:22-81
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:12:22-73
+application
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:14:5-38:19
+MERGED from [org.sufficientlysecure:html-textview:1.3] /Users/hakubill/.gradle/caches/transforms-3/0ea5c6e13eaf115be7bc29b6fdde3181/transformed/html-textview-1.3/AndroidManifest.xml:11:5-20
+MERGED from [org.sufficientlysecure:html-textview:1.3] /Users/hakubill/.gradle/caches/transforms-3/0ea5c6e13eaf115be7bc29b6fdde3181/transformed/html-textview-1.3/AndroidManifest.xml:11:5-20
+	android:supportsRtl
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:18:9-38
+activity#com.example.administrator.yilan000.MainActivity
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:21:9-31:20
+	android:label
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:24:13-45
+	android:exported
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:23:13-36
+	android:theme
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:22:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.example.administrator.yilan000.ui.news.NewsDetailsActivity
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:32:9-35:20
+	android:exported
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:33:13-36
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:32:19-62
+activity#com.example.administrator.yilan000.ui.pictures.PictureDescribeActivity
+ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:36:9-37:38
+	android:exported
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml:36:19-70
+uses-sdk
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+MERGED from [com.jakewharton:butterknife:8.7.0] /Users/hakubill/.gradle/caches/transforms-3/e432943cf0211bc840b16b6ba68a44e0/transformed/butterknife-8.7.0/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.7.0] /Users/hakubill/.gradle/caches/transforms-3/e432943cf0211bc840b16b6ba68a44e0/transformed/butterknife-8.7.0/AndroidManifest.xml:5:5-43
+MERGED from [com.jude:easyrecyclerview:4.4.0] /Users/hakubill/.gradle/caches/transforms-3/01bcbb02fa0ee072f6bced41da209453/transformed/easyrecyclerview-4.4.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.jude:easyrecyclerview:4.4.0] /Users/hakubill/.gradle/caches/transforms-3/01bcbb02fa0ee072f6bced41da209453/transformed/easyrecyclerview-4.4.0/AndroidManifest.xml:8:5-10:41
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/hakubill/.gradle/caches/transforms-3/06cac4e8490d79124d965bf588aa1e99/transformed/rxandroid-1.2.1/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] /Users/hakubill/.gradle/caches/transforms-3/06cac4e8490d79124d965bf588aa1e99/transformed/rxandroid-1.2.1/AndroidManifest.xml:19:5-43
+MERGED from [org.sufficientlysecure:html-textview:1.3] /Users/hakubill/.gradle/caches/transforms-3/0ea5c6e13eaf115be7bc29b6fdde3181/transformed/html-textview-1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [org.sufficientlysecure:html-textview:1.3] /Users/hakubill/.gradle/caches/transforms-3/0ea5c6e13eaf115be7bc29b6fdde3181/transformed/html-textview-1.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/4df99f1f5a291bc243c28a8286f2b960/transformed/design-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/4df99f1f5a291bc243c28a8286f2b960/transformed/design-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/1e6fdaef85c17cabe7bedb079b0408a1/transformed/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/1e6fdaef85c17cabe7bedb079b0408a1/transformed/appcompat-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/4807345aafcb3aaf529b6a97cf04e8e5/transformed/recyclerview-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/4807345aafcb3aaf529b6a97cf04e8e5/transformed/recyclerview-v7-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/3bb55d74a0d4c87d9e4aa65b4efa0a95/transformed/transition-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/3bb55d74a0d4c87d9e4aa65b4efa0a95/transformed/transition-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/f312d0e4f376a27f2e6df7022cff02e6/transformed/support-v4-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/f312d0e4f376a27f2e6df7022cff02e6/transformed/support-v4-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/14e3d6e0b03c56eb098d067e6a9e1786/transformed/support-media-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/14e3d6e0b03c56eb098d067e6a9e1786/transformed/support-media-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/90ef68e1c54b85d9b5b52ec522dbf109/transformed/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/90ef68e1c54b85d9b5b52ec522dbf109/transformed/support-fragment-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/b0f184b9dd061222499aa57d61ca6967/transformed/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/b0f184b9dd061222499aa57d61ca6967/transformed/support-core-utils-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/c1727e3c7fa1d91294f2da3059f0a35c/transformed/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/c1727e3c7fa1d91294f2da3059f0a35c/transformed/animated-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/b1ae4a0ff4a0cf9fdba8290716aa8e18/transformed/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/b1ae4a0ff4a0cf9fdba8290716aa8e18/transformed/support-core-ui-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/9497965443e296fd92aefb1c6defe9de/transformed/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/9497965443e296fd92aefb1c6defe9de/transformed/support-vector-drawable-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/2b3b769663e9961246356bc74c47d9a0/transformed/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /Users/hakubill/.gradle/caches/transforms-3/2b3b769663e9961246356bc74c47d9a0/transformed/support-compat-27.0.2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/hakubill/.gradle/caches/transforms-3/4e4352b0773d86a3e93b35ff54983dc6/transformed/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /Users/hakubill/.gradle/caches/transforms-3/4e4352b0773d86a3e93b35ff54983dc6/transformed/runtime-1.0.3/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hakubill/YiLan/app/src/main/AndroidManifest.xml
